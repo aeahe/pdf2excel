@@ -196,5 +196,3 @@ if __name__ == '__main__':
     # # print(f.read())
     parse_pdf(1,1.5,data=f,savePath=r"C:\Users\15644\Desktop\test_1.xlsx")
     # getfiles(r'C:\Users\15644\Desktop\6月大波浪')
-
-    
